@@ -1,5 +1,5 @@
 # UCI-Bank-Marketing-Analysis
-UCI Bank Marketing DataSet Analysis
+O objetivo deste projeto é responder de maneira clara 6 perguntas sobre o UCI Bank Marketing Data Set.
 
 ## Estrutura
  - data/  - Contém os dados utilizados pelo projeto e disponíveis [aqui](https://archive.ics.uci.edu/ml/datasets/bank+marketing#).
@@ -26,4 +26,4 @@ Para instalar o ambiente, sugiro utilizar o gerenciador de dependências [conda]
 
 ## Notebook
 
-O github não renderiza os gráficos, então se desejar, utilize o [nbviewer](http://nbviewer.jupyter.org/) para abrir o notebook com gráficos. **O link do Notebook deste projeto já foi carregado e pode ser acessado [aqui](http://nbviewer.jupyter.org/github/alelopes/UCI-Bank-Marketing-Analysis/blob/master/notebooks/.ipynb_checkpoints/BankMarketingAnalysis-checkpoint.ipynb)**
+O github não renderiza os gráficos, então se desejar utilize o [nbviewer](http://nbviewer.jupyter.org/) para abrir o notebook com gráficos. **O link do Notebook deste projeto já foi carregado e pode ser acessado [aqui](http://nbviewer.jupyter.org/github/alelopes/UCI-Bank-Marketing-Analysis/blob/master/notebooks/.ipynb_checkpoints/BankMarketingAnalysis-checkpoint.ipynb)**
